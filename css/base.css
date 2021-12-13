@@ -39,5 +39,7 @@ h1 {
   color: #ECEFF4;
   font-size: 6vh;
   justify-content: center;
+  font-style: italic;
+  font-weight: bold;
 }
 
