@@ -31,6 +31,11 @@
   margin-left: 2rem;
 }
 
+.nav-item:first-child:hover {
+  transition: 0.75s;
+  
+}
+
 #center-block {
   margin-left: 8rem;
 }
@@ -43,3 +48,21 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 5.5vh;
+  color: #ECEFF4;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+#mot {
+  font-size: 4vh;
+  color: #ECEFF4;
+  padding: 1vh;
+}
+
+.item-word:before {
+  content: "• ";
+}
