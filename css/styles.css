@@ -1,0 +1,16 @@
+*{
+  scroll-behavior: smooth;
+}
+
+.scroll-text {
+    color: white;
+    position: relative;
+    transition: transform 0.4s;
+}
+
+.delivery-link {
+    font-size: 4vh;
+    text-decoration: none;
+    color: white;
+}
+
