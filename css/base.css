@@ -66,3 +66,7 @@ h2 {
 .item-word:before {
   content: "• ";
 }
+
+.specialword {
+  color: #AB9157;
+}
